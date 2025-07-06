@@ -14,7 +14,7 @@ I am a Computer Engineering graduate with a specialization in Machine Learning a
 
 ## 🚀 Projects
 
-- **Automated Attendance System using Face Recognition**  
+- **[Automated Attendance System using Face Recognition](https://github.com/NikhilAjani/Automated-Attendance-System-using-Face-Recognition)**  
   The Smart Automated Attendance System uses face recognition with advanced computer vision and deep learning to efficiently mark attendance in real time.
 
 - **Intelligent Weapon Detection System for Real-Time Surveillance using Deep Learning**  
