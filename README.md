@@ -8,7 +8,7 @@ I am a Computer Engineering graduate with a specialization in Machine Learning a
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python
+- **Programming Languages:** Python, HTML, CSS, JS, Java, C
 - **Core Areas:** Machine Learning, Deep Learning, Computer Vision, Artificial Intelligence
 - **Frameworks & Tools:** TensorFlow, PyTorch, OpenCV, scikit-learn
 
