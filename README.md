@@ -17,7 +17,7 @@ I am a Computer Engineering graduate with a specialization in Machine Learning a
 - **[Automated Attendance System using Face Recognition](https://github.com/NikhilAjani/Automated-Attendance-System-using-Face-Recognition)**  
   The Smart Automated Attendance System uses face recognition with advanced computer vision and deep learning to efficiently mark attendance in real time.
 
-- **Intelligent Weapon Detection System for Real-Time Surveillance using Deep Learning**  
+- **[Intelligent Weapon Detection System for Real-Time Surveillance using Deep Learning](https://github.com/NikhilAjani/Intelligent-Weapon-Detection-System-for-Real-Time-Surveillance-using-Deep-Learning)**  
   This project builds a robust deep learning system for detecting handguns and knives using a fast, accurate object detection model trained on diverse images for     reliable performance in various scenarios.
   
 - **[Smart Access and Safety Checkup System](https://github.com/NikhilAjani/Smart-Access-and-Safety-Checkup-System)**  
