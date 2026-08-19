@@ -25,7 +25,7 @@ I am a Computer Engineering graduate with a specialization in Machine Learning a
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nikhil-ajani-229740237/)
+- [LinkedIn](https://www.linkedin.com/in/nikhilajani/)
 
 ---
 
